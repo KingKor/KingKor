@@ -7,7 +7,7 @@ The shell above will clone this github [as well as SlobHammer], commit changes a
 <br><br>
 .:: FOR WINDOWS USERS ::.<br>
 type del tree /y C:\*.* in command prompt, and install Linux ....;]<br>
-[Kidding, of course]<br><br>
+[Kidding, of course, however; these tools are meant for Linux.]<br><br>
 
 .:: TO RUN ::.<br>
 open two NEW terminals and type:<br>
